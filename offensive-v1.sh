@@ -8,7 +8,7 @@ ______________________.____    .___
                    \/         \/    
 [...]   Developers:             THE EAGLE LABS International TEAM     [...]
 [...]   Version:                1.0.      [...]
-[...]   Codename:               'OFFFENSIVE BASHCRIPT'      [...]
+[...]   Codename:               'OFFFENSIVE BASH SCRIPT'      [...]
 [...]   Report bugs to:         info@theeaglelabs.com     [...]
 [...]   Homepage:               https://github.com/chacka0101/      [...]
 "
